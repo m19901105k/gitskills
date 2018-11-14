@@ -1,4 +1,6 @@
 .LOG
-≤‚ ‘
+This is a new file.
 18:41 2018/11/14
-‘Ÿ¿¥≤‚ ‘
+I try to modify this file.
+18:54 2018/11/14
+It is a remote test.
